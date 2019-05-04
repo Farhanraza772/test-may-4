@@ -1,0 +1,69 @@
+#cart {
+    color: white;
+    background-color: #c63928;
+    padding: 15px 25px;
+    border: none;
+    
+}
+
+#cart:hover {
+    cursor: pointer;
+}
+
+#Start {
+    background-color: #fdd835;
+    color: #2a61fb;
+    padding: 15px 25px;
+    border: 2px solid blue;
+    font-size:
+}
+
+#Start:hover {
+    cursor: pointer;
+}
+
+#Login {
+    background-image: linear-gradient(to right, #59d0db, #a4d388);
+    padding: 15px 25px;
+    border-radius: 24px;
+}
+
+#Login:hover {
+    cursor: pointer;
+}
+
+#Sign-Up {
+    color: #936fec;
+    padding: 15px 25px;
+    background-color: white;
+    border: solid #936fec;
+}
+
+#Sign-Up:hover {
+    cursor: pointer;
+}
+
+#subscribe {
+    color: white;
+    background-color: #f7b232;
+    padding: 15px 25px;
+    border-radius: 2px;
+    border: none;
+    border: 2px solid #f7b232;
+}
+
+#subscribe:hover {
+    cursor: pointer;
+}
+
+#twitter {
+    border-radius: 25px;
+    height: 45px;
+    width: 45px;
+    background-color: white
+    
+}
+
+#twitter:hover {
+    cursor: pointer;
+}
